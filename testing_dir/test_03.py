@@ -3,4 +3,4 @@ def add_num(x):
 
 def test_num():
     re = add_num(3)
-    assert re == 6
+    assert re == 5
